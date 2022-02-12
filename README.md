@@ -26,3 +26,5 @@ Cleaned up code with proper spacing and indents.
 
 Deployment URL: https://bshort985.github.io/brianShort-Horiseon-refactor/
 
+GitHub URL: https://github.com/bshort985/brianShort-Horiseon-refactor.git
+
