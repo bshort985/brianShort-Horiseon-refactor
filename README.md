@@ -15,3 +15,14 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+Changed the tags to the appropriate semantic tags.
+Added alt attributes to all the images beside the background image. 
+Reorganized the style sheet to follow same order has HTML for easier reading.
+Consolidated the CSS code so that is no duplicate code. 
+Added comments in both HTML and CSS for easy navigation and reading. 
+Fixed broken Search Engine Optimization link. 
+Deleted unnecessary class designations 
+Cleaned up code with proper spacing and indents. 
+
+Deployment URL: https://bshort985.github.io/brianShort-Horiseon-refactor/
+
